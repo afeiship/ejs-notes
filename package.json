@@ -1,0 +1,17 @@
+{
+  "name": "feizheng/ejs-notes",
+  "version": "1.0.0",
+  "description": "Ejs notes.",
+  "homepage": "https://github.com/afeiship",
+  "author": {
+    "name": "afeiship",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "devDependencies": {
+    "ejs": "^3.1.3"
+  }
+}
